@@ -5,4 +5,4 @@
 地址通常为：http://localhost:8080/dubbo-admin-2.5.4/
 
 
-Hava Fun.
+Have Fun.
